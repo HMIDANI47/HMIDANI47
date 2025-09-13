@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+
 # 👋 Hi, I'm Hasnae Hmidani  
 
 🎓 Master’s student in **Decision Information Systems and Imaging** (FST Errachidia)  
@@ -64,7 +64,7 @@
 - 📊 [Kaggle](https://www.kaggle.com/) _(add your Kaggle profile link if you’d like)_  
 
 ---
-
+>
 ## 📈 GitHub Stats
 
 ![Hasnae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnaehmidani&show_icons=true&theme=tokyonight)  
