@@ -61,15 +61,6 @@
 ## 📫 Let’s Connect
 - ✉️ Email: **hasnaehmidani35@gmail.com**  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/hasnaehmidani)  
-- 📊 [Kaggle](https://www.kaggle.com/) _(add your Kaggle profile link if you’d like)_  
 
----
->
-## 📈 GitHub Stats
-
-![Hasnae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnaehmidani&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaehmidani&layout=compact&theme=tokyonight)  
-
----
 
 ✨ *“Analytical, rigorous, and motivated — eager to contribute to impactful AI & data projects.”*  
