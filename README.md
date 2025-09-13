@@ -1,16 +1,75 @@
 ## Hi there 👋
 
 <!--
-**HMIDANI47/HMIDANI47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hasnae Hmidani  
 
-Here are some ideas to get you started:
+🎓 Master’s student in **Decision Information Systems and Imaging** (FST Errachidia)  
+💻 Data Scientist | Data Analyst | Full-Stack Developer  
+📊 Passionate about AI, NLP, and data-driven solutions — turning raw data into actionable insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, Java, PHP, Laravel, JEE, C, JavaScript, HTML5, CSS3, Android (Java/XML)
+- **Data Science & ML:** Scikit-Learn, TensorFlow, Keras, BERT, CNNs, OpenCV, Pillow  
+- **NLP:** Transformers (mT5, AraBART, mBART)  
+- **Data Visualization / Integration:** Power BI, Excel, Matplotlib, SSIS, Talend  
+- **Databases:** MySQL, PL/SQL, SQL Server, MongoDB  
+
+---
+
+## 🚀 Projects
+
+- 📝 **Automatic Summarization of Arabic Texts (Master’s Thesis)**  
+  NLP system tailored to Arabic linguistic specificities using **mT5, AraBART, and mBART** for concise, coherent summaries.  
+
+- 🔢 **Handwritten Digit Recognition (Bachelor Project)**  
+  Built a CNN with TensorFlow/Keras (Accuracy: **98%**) and OpenCV preprocessing for digit recognition.  
+
+- 🧠 **Stroke Risk Prediction**  
+  Predictive model using clinical data with **RandomForest, ExtraTrees, XGBClassifier** to detect patient risk.  
+
+- 🗑️ **Smart Waste Segregation System**  
+  Image-based classification of waste (metal, glass, paper, cardboard, plastic, trash) with **TensorFlow, Keras, OpenCV**.  
+
+- 🌱 **Soil Type Classification Chatbot (DUT Internship)**  
+  AI-powered chatbot to classify soil images. Stack: **TensorFlow, Flask, HTML/CSS/Bootstrap**.  
+
+- ❓ **AI-Powered Q&A with RAG**  
+  Built a **Retrieval-Augmented Generation** system using **LangChain, OpenAI embeddings, FAISS/ChromaDB** to provide reliable answers.  
+
+- 🔎 **Explainable AI with LIME & SHAP**  
+  Framework to interpret ML model predictions and improve trust by analyzing feature importance.  
+
+---
+
+## 🌐 Languages
+- Arabic: Native  
+- French: Fluent  
+- English: Fluent  
+
+---
+
+## 🤝 Soft Skills
+- Strong Communication  
+- Analytical Thinking  
+- Autonomy  
+
+---
+
+## 📫 Let’s Connect
+- ✉️ Email: **hasnaehmidani35@gmail.com**  
+- 🔗 [LinkedIn](http://www.linkedin.com/in/hasnaehmidani)  
+- 📊 [Kaggle](https://www.kaggle.com/) _(add your Kaggle profile link if you’d like)_  
+
+---
+
+## 📈 GitHub Stats
+
+![Hasnae's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnaehmidani&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaehmidani&layout=compact&theme=tokyonight)  
+
+---
+
+✨ *“Analytical, rigorous, and motivated — eager to contribute to impactful AI & data projects.”*  
