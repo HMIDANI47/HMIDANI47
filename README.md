@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Hasnae Hmidani  
 
-🎓 Master’s student in **Decision Information Systems and Imaging**  
+🎓 Master in **Decision Information Systems and Imaging**  
 💻 Data Scientist | Data Analyst | Full-Stack Developer  
 📊 Passionate about AI, NLP, and data-driven solutions — turning raw data into actionable insights.  
 
